@@ -1,0 +1,10 @@
+BE:
+- Cài đặt python
+- cd ../readbook-BE/WebTruyen
+- pip install -r requirements.txt
+- python manage.py runserver
+
+FE:
+- Cài đặt nodejs
+- npm install next
+- npm run dev
